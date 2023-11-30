@@ -6,6 +6,6 @@ This repository contains resources and code for dialogue summarization, showcasi
 
 ## Contents
 
-zero_shot_summarization.ipynp: This script implements the Zero-shot learning approach for dialogue summarization. It is designed to work with minimal training data and can be applied to dialogues it hasn't seen during training.
+zero_shot_summarization.ipynb: This script implements the Zero-shot learning approach for dialogue summarization. It is designed to work with minimal training data and can be applied to dialogues it hasn't seen during training.
 
-fine_tuning_summarization.ipynp: This file contains code for the Fine-tuning approach. It is intended for scenarios where more tailored summarization is required, leveraging additional training data to fine-tune the summarization model.
+fine_tuning_summarization.ipynb: This file contains code for the Fine-tuning approach. It is intended for scenarios where more tailored summarization is required, leveraging additional training data to fine-tune the summarization model.
